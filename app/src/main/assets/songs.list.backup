@@ -1,0 +1,92 @@
+﻿[
+	{
+		"imgSrc": "icons/alakazam.gif",
+		"audioSrc": "music/alakazam.mp3"
+	},{
+		"imgSrc": "icons/arbok.gif",
+		"audioSrc": "music/arbok.mp3"
+	},{
+		"imgSrc": "icons/arcanine.gif",
+		"audioSrc": "music/arcanine.mp3"
+	},{
+		"imgSrc": "icons/beedrill.gif",
+		"audioSrc": "music/beedrill.mp3"
+	},{
+		"imgSrc": "icons/bellsprout.gif",
+		"audioSrc": "music/bellsprout.mp3"
+	},{
+		"imgSrc": "icons/blastoise.gif.gif",
+		"audioSrc": "music/blastoise.gif.mp3"
+	},{
+		"imgSrc": "icons/bulbasaur.gif",
+		"audioSrc": "music/bulbasaur.mp3"
+	},{
+		"imgSrc": "icons/caterpie.gif",
+		"audioSrc": "music/caterpie.mp3"
+	},{
+		"imgSrc": "icons/charizard.gif",
+		"audioSrc": "music/charizard.mp3"
+	}, {
+		"imgSrc": "icons/charmander.gif",
+		"audioSrc": "music/charmander.mp3"
+	}, {
+		"imgSrc": "icons/charmeleon.gif",
+		"audioSrc": "music/charmeleon.mp3"
+	}, {
+		"imgSrc": "icons/clefable.gif",
+		"audioSrc": "music/clefable.mp3"
+	}, {
+		"imgSrc": "icons/clefairy.gif",
+		"audioSrc": "music/clefairy.mp3"
+	}, {
+		"imgSrc": "icons/cleffa.gif",
+		"audioSrc": "music/cleffa.mp3"
+	}, {
+		"imgSrc": "icons/diglett.gif",
+		"audioSrc": "music/diglett.mp3"
+	}, {
+		"imgSrc": "icons/dugtrio.gif",
+		"audioSrc": "music/dugtrio.mp3"
+	}, {
+		"imgSrc": "icons/ekans.gif",
+		"audioSrc": "music/ekans.mp3"
+	}, {
+		"imgSrc": "icons/fearow.gif",
+		"audioSrc": "music/fearow.mp3"
+	}, {
+		"imgSrc": "icons/geodude.gif",
+		"audioSrc": "music/geodude.mp3"
+	}, {
+		"imgSrc": "icons/gloom.gif",
+		"audioSrc": "music/gloom.mp3"
+	}, {
+		"imgSrc": "icons/golbat.gif",
+		"audioSrc": "music/golbat.mp3"
+	}, {
+		"imgSrc": "icons/golduck.gif",
+		"audioSrc": "music/golduck.mp3"
+	}, {
+		"imgSrc": "icons/golem.gif",
+		"audioSrc": "music/golem.mp3"
+	}, {
+		"imgSrc": "icons/graveler.gif",
+		"audioSrc": "music/graveler.mp3"
+	}, {
+		"imgSrc": "icons/growlithe.gif",
+		"audioSrc": "music/growlithe.mp3"
+	}, {
+		"imgSrc": "icons/ivysaur.gif",
+		"audioSrc": "music/ivysaur.mp3"
+	}, {
+		"imgSrc": "icons/jigglypuff.gif",
+		"audioSrc": "music/jigglypuff.mp3"
+	}, {
+		"imgSrc": "icons/kadabra.gif",
+		"audioSrc": "music/kadabra.mp3"
+	}, {
+		"imgSrc": "icons/kakuna.gif",
+		"audioSrc": "music/kakuna.mp3"
+	}, {
+		"imgSrc": "icons/machamp.gif",
+		"audioSrc": "music/machamp.mp3"
+	}]
